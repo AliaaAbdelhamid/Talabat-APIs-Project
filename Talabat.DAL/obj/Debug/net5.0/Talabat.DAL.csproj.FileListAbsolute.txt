@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.runtimeconfig.json
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\refint\Talabat.DAL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.genruntimeconfig.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll

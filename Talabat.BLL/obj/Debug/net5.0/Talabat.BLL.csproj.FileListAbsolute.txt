@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.deps.json
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.pdb
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.pdb
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfo.cs
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CopyComplete
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\refint\Talabat.BLL.dll
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.pdb
+C:\Users\hp\source\repos\Talabat.Solution\Talabat.BLL\obj\Debug\net5.0\ref\Talabat.BLL.dll
